@@ -358,7 +358,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt",
+		    "url": "https://xiaoqiapi.github.io/yingshi/zhibo.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],

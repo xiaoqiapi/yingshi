@@ -1,6 +1,6 @@
 /**
 * 🌟 小齐导航网:tianyi.kesug.com🌟 
-* 📅 本次更新时间：2024年6月23日
+* 📅 本次更新时间：2024年7月2日
 * 👤 开发人员：小齐 / 一轩(软件制作/直播源创建文本技术支持)
 * 💡 开发理念：我们不创造直播源，只是直播源的搬运工！
 * ⚠️ 各位大佬 我只是个小学生 维护不易 希望你们不要进行倒卖 我一分赞助没收到 反而你们倒卖
@@ -8,7 +8,7 @@
 */
 
 上次更新时间,https://vd2.bdstatic.com/mda-nag6y4ryfy5a0hjb/720p/h264_delogo/1642396108696963578/mda-nag6y4ryfy5a0hjb.mp4
-6月23日 17:04,https://vd2.bdstatic.com/mda-nag6y4ryfy5a0hjb/720p/h264_delogo/1642396108696963578/mda-nag6y4ryfy5a0hjb.mp4
+7月2日 17:33,https://vd2.bdstatic.com/mda-nag6y4ryfy5a0hjb/720p/h264_delogo/1642396108696963578/mda-nag6y4ryfy5a0hjb.mp4
 ==============,https://vd2.bdstatic.com/mda-nag6y4ryfy5a0hjb/720p/h264_delogo/1642396108696963578/mda-nag6y4ryfy5a0hjb.mp4
 小齐导航网,https://vd2.bdstatic.com/mda-nag6y4ryfy5a0hjb/720p/h264_delogo/1642396108696963578/mda-nag6y4ryfy5a0hjb.mp4
 tianyi.kesug.com,https://vd2.bdstatic.com/mda-nag6y4ryfy5a0hjb/720p/h264_delogo/1642396108696963578/mda-nag6y4ryfy5a0hjb.mp4

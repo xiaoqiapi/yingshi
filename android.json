@@ -543,7 +543,7 @@
 {"name":"解析三线","type":0,"url":"https://www.8090.la/8090/?url=","ext":{"flag": ["芒果","mangguo"]}}],
 	"lives": [{
             "name": "live",
-		    "url": "https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt",
+		    "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xiaoqiapi/yingshi/main/zhibo.txt",
             "type": 0,
             "playerType": 1,
             "ua": "okhttp/3.12.13",

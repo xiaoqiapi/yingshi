@@ -16,7 +16,7 @@
 {"key":"爱奇艺","name":"小齐🥀爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/奇珍异兽.js"},
 {"key":"360影视","name":"小齐🥀360影视(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/360影视.js"},
 {"key":"南瓜影视","name":"小齐🥀南瓜影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/南瓜.js"},
-{"key":"网飞影视","name":"侠客🥀网飞影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/网飞影视.js"},
+{"key":"网飞影视","name":"小齐🥀网飞影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/网飞影视.js"},
 {"key":"低端影视","name":"小齐🥀低端影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/diduan.js"},
 {"key":"秋霞电影网","name":"小齐🥀秋霞电影网","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/秋霞电影网.js"},
 {"key":"短视频","name":"小齐🥀短视频","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/duanshiping.js"},

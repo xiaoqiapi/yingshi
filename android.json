@@ -15,7 +15,6 @@
 {"key":"搜狗","name":"小齐🥀搜狗(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/caigou.js"},
 {"key":"爱奇艺","name":"小齐🥀爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/奇珍异兽.js"},
 {"key":"360影视","name":"小齐🥀360影视(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/360影视.js"},
-{"key":"爱坤影视","name":"小齐🥀爱坤影视","type":1,"playerType":1,"searchable":1,"quickSearch":1,"api":"http://43.242.202.173:25253/api/cai.php?id=id13"},
 {"key":"南瓜影视","name":"小齐🥀南瓜影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/南瓜.js"},
 {"key":"网飞影视","name":"小齐🥀网飞影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/网飞影视.js"},
 {"key":"低端影视","name":"小齐🥀低端影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/diduan.js"},

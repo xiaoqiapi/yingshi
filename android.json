@@ -54,7 +54,7 @@
 {"key":"非凡资源网","name":"小齐🥀非凡资源网","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"360资源站","name":"小齐🥀360资源站","type":1,"api":"https://360zy.com/api.php/provide/vod/from/360zy/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"金鹰资源","name":"小齐🥀金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingyun/at/json","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"精品短剧","name":"小齐🥀精品短剧","type":3,"api":"csp_Wexduanjuvip","jar":"./lib/jiazizx.jar","searchable":1,"changeable":1},
+{"key":"精品短剧","name":"小齐🥀精品短剧","type":3,"api":"csp_Wexduanjuvip","jar":"./lib/精品短剧.jar","searchable":1,"changeable":1},
 {"key":"蜻蜓FM","name":"小齐📻蜻蜓FM","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/蜻蜓FM.js"},
 {"key":"JRKAN直播","name":"小齐⚽JRKAN直播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/jrk.js"},
 {"key":"310体育","name":"小齐⚽310体育","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/310直播.js"},

@@ -60,13 +60,18 @@
 {"key":"美剧蓝光","name":"小齐🥀美剧蓝光","type":3,"api":"csp_KmeiJu","jar":"./lib/PandaQ240720.jar","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"电影港","name":"小齐🥀电影港","type":3,"api":"csp_XYQHiker","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/电影港.json"},
 {"key":"快看直连","name":"小齐🥀快看直连","type":3,"api":"csp_Kuaikan","jar":"./lib/PandaQ240720.jar","searchable":1,"quickSearch":1,"filterable":0},
-
 {"key":"HDmoli","name":"小齐🥀HDmoli","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/HDmoli.js"},
 {"key":"Mp4影视","name":"小齐🥀Mp4影视","type":3,"api":"csp_Mp4Mov","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"BT2速播","name":"小齐🥀BT速播","type":3,"api":"csp_Wexbttwo","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"路漫漫动漫","name":"小齐🥀路漫漫动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/路漫漫动漫.js"},
 {"key":"稀饭动漫","name":"小齐🥀稀饭动漫","type":3,"api":"csp_Xifan","jar":"./lib/PandaQ240720.jar","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"A8视频","name":"小齐🥀A8视频","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/A8视频.js"},
+{"key":"6V电影","name":"小齐🥀6V电影","type":3,"api":"csp_New6v","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"SeedHub","name":"小齐🥀SeedHub","type":3,"api":"csp_SeedHub","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"酷吧电影","name":"小齐🥀酷吧电影","type":3,"api":"csp_KubaCL","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"迅雷吧","name":"小齐🥀迅雷吧","type":3,"api":"csp_Xunlei8","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"快看影视","name":"小齐🥀迅雷吧","type":3,"api":"csp_Kuaikan","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"Ikanbot","name":"小齐🥀Ikanbot","type":3,"api":"csp_Ikanbot","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
 
     {
       "key": "韩剧看看",
@@ -989,12 +994,12 @@
 {"key":"儿童编程","name":"小齐📚儿童编程","type":3,"api":"csp_Bili","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/儿童编程.json"},
 {"key":"儿童武术","name":"小齐📚儿童武术","type":3,"api":"csp_Bili","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/儿童武术.json"},
 {"key":"哔哩影视","name":"小齐🅱哔哩影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩影视.js"},
-{"key":"哔哩短剧","name":"小齐🅱哔哩短剧","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩影视.js"},
 {"key":"哔哩直播","name":"小齐🅱哔哩直播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩直播.js"},
 {"key":"哔哩精简","name":"小齐🅱哔哩精简","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩精简.js"},
 {"key":"我的哔哩","name":"小齐🅱我的哔哩","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/我的哔哩.js"},
 {"key":"天下美食","name":"小齐🅱天下美食","type":3,"api":"csp_Bili","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/美食.json"},
 {"key":"哔哩戏曲","name":"小齐🅱哔哩戏曲","type":3,"api":"csp_Bili","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/xiqu.json"},
+{"key":"哔哩综合","name":"小齐🅱哔哩综合","type":3,"api":"csp_Bili","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩综合.json"},
 {"key":"哔哔合集","name":"小齐🅱哔哩合集","type":3,"api":"csp_Bili","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/bilibili.json"},
 {"key":"哔哩歌曲","name":"小齐🅱哔哩歌曲","type":3,"api":"csp_Bili","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/biliych.json"},
 {"key":"哔哩音乐","name":"小齐🅱哔哩音乐","type":3,"api":"csp_Bili","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩音乐.json"},
@@ -1058,6 +1063,58 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
+  "rules": [
+    {
+      "name": "量子",
+      "hosts": [
+        "vip.lz",
+        "hd.lz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "火山",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "www.sharenice.net"
+      ],
+      "rule": [
+        "douyin.com",
+        "/play/"
+      ]
+    }
+  ],
     "doh": [
     {
       "name": "Google",

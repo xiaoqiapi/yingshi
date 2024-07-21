@@ -348,7 +348,7 @@
             "搜索标题": "class=\"title\">&&</div>",
             "搜索副标题": "search-result-item-header\">&&</div>",
             "搜索链接": "href=\"&&\"",
-            "线路数组": "source-item\">&&<i[排序:超清>极速蓝光][不包含:FF线路#蓝光2#蓝光3#蓝光4#蓝光9#蓝光7#XL线路#GS线路#IK线路#YH线路#WJ线路#WL线路#JY线路#KC线路#SB线路#HN线路]",
+            "线路数组": "source-item\">&&<i",
             "线路标题": ">&&<",
             "播放数组": "episode-list\"&&</div",
             "播放列表": "<a&&/a",
@@ -1208,6 +1208,73 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
   "rules": [
+    {
+      "host": "www.iesdouyin.com",
+      "rule": [
+        "playwm/?video_id="
+      ]
+    },
+    {
+      "host": "www.ysgc.vip",
+      "rule": [
+        "getm3u8?url=http"
+      ]
+    },
+    {
+      "host": "v.douyin.com",
+      "rule": [
+        "playwm/?video_id="
+      ]
+    },
+    {
+      "host": "dyxs20.com",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "www.agemys.cc",
+      "rule": [
+        "cdn-tos",
+        "obj/tos-cn"
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "http.*?/play.{0,3}\\?[^url]{2,8}=.*",
+        "qianpailive.com",
+        "vid="
+      ]
+    },
+    {
+      "name": "leshiyun",
+      "hosts": [
+        "leshiyuncdn"
+      ],
+      "regex": [
+        "15.92"
+      ]
+    },
+    {
+      "name": "1080zyk",
+      "hosts": [
+        "high24-playback",
+        "high20-playback"
+      ],
+      "regex": [
+        "16.63"
+      ]
+    },
+    {
+      "name": "555DM",
+      "hosts": [
+        "cqxfjz"
+      ],
+      "regex": [
+        "10.56"
+      ]
+    },
     {
       "name": "海外看",
       "hosts": [

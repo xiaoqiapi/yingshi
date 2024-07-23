@@ -74,7 +74,6 @@
 {"key":"速播资源","name":"小齐🥀速播资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"6V电影","name":"小齐🥀6V电影","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/6V电影.js"},
 {"key":"磁力熊","name":"小齐🥀磁力熊","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/磁力熊.js"},
-{"key":"电影先生","name":"小齐🥀电影先生","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/电影先生.js"},
 {"key":"兔小贝儿歌①","name":"小齐🥀兔小贝儿歌①","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/兔小贝.js"},
 
     {
@@ -178,7 +177,7 @@
       "filterable": 0,
       "ext": {
             "搜索链接":"https://www.bugutv.org/?cat=&s={wd}",
-            "简介":"【小齐影视】提醒您请勿相信影片中的广告，以免上当受骗！+◎简*介</p>&&</p>",
+            "简介":"◎简*介</p>&&</p>",
             "线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
             "线路标题":"小齐影视",
             "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
@@ -198,18 +197,17 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": {
-            "主页url": "https://www.xbw20.com/",
-            "编码": "gb2312",
-            "图片": "data-src=\"&&\"",
-            "标题": "alt=\"&&\"",
-            "副标题":"class=\"time\">&&</label",
-            "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
-            "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
-            "起始页": 2,
-            "倒序": 1,
-            "播放数组": "迅雷下载</div>&&</div>",
-            "播放列表": "<a&&</a>",
-            "手动嗅探视频链接过滤词": ".html#=http"
+				"主页url": "https://www.xbw20.com/",
+				"编码": "gb2312",
+				"图片": "data-src=\"&&\"",
+				"标题": "alt=\"&&\"",
+				"副标题":"class=\"time\">&&</label",
+				"分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
+				"分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
+				"起始页": 2,
+				"倒序": 1,
+				"播放数组": "迅雷下载</div>&&</div>",
+				"播放列表": "<a&&</a*>" 
     }
     },
     {

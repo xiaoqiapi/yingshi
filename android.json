@@ -18,7 +18,7 @@
 {"key":"爱奇艺","name":"小齐🥀爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/奇珍异兽.js"},
 {"key":"360影视","name":"小齐🥀360影视(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/360影视.js"},
 {"key":"酷看蓝光","name":"小齐🥀酷看蓝光","type":3,"api":"csp_Kkys","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
-{"key":"小苹果蓝光","name":"小齐🥀小苹果蓝光","jar":"./lib/xiaoqiok.jar","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
+{"key":"小苹果蓝光","name":"小齐🥀小苹果蓝光","type":3,"api":"csp_Xpg","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
 {"key":"天天蓝光","name":"小齐🥀天天蓝光","type":3,"api":"csp_TianTian","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
 {"key":"荐片影视","name":"小齐🥀荐片影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/荐片.js"},
 {"key":"爱坤影视","name":"小齐🥀爱坤影视","type":1,"playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"http://43.242.202.173:25253/api/cai.php?id=id13","playUrl":"json:http://43.242.202.173:2525/ikun.php/?url="},
@@ -48,7 +48,7 @@
 {"key":"黑木耳资源站","name":"小齐🥀黑木耳资源站","type":1,"api":"https://json.heimuer.tv/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"淘片资源网","name":"小齐🥀淘片资源网","type":0,"api":"https://taopianapi.com/cjapi/mc10/vod/xml.html","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"豪华资源","name":"小齐🥀豪华资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"央视大全","name":"小齐🥀央视大全","type":3,"api":"csp_CCTV","searchable":1,"filterable":1,"changeable":0,"ext":"./lib/央视大全.json","jar":"./lib/cctv.jar;md5;25d9c3d97411a77f12652fde9b88dbc5"},
+{"key":"央视大全","name":"小齐🥀央视大全","type":3,"api":"csp_CCTV","jar":"./lib/cctv.jar;md5;25d9c3d97411a77f12652fde9b88dbc5","searchable":1,"filterable":1,"changeable":0,"ext":"./lib/央视大全.json"},
 {"key":"央视经典","name":"小齐🥀央视经典","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/央视经典.json"},
 {"key":"最大资源网","name":"小齐🥀最大资源网","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"非凡资源网","name":"小齐🥀非凡资源网","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
@@ -74,8 +74,8 @@
 {"key":"速播资源","name":"小齐🥀速播资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"6V电影","name":"小齐🥀6V电影","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/6V电影.js"},
 {"key":"磁力熊","name":"小齐🥀磁力熊","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/磁力熊.js"},
-{"key":"布谷TV","name":"小齐🥀布谷TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/布谷.json"},
-{"key":"小白网","name":"小齐🥀小白网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小白网.json"},
+{"key":"布谷TV","name":"小齐🥀布谷TV","type":3,"api":"csp_XBPQ","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/布谷.json"},
+{"key":"小白网","name":"小齐🥀小白网","type":3,"api":"csp_XBPQ","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小白网.json"},
 {"key":"兔小贝儿歌①","name":"小齐🥀兔小贝儿歌①","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/兔小贝.js"},
 
     {

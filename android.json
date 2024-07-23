@@ -74,8 +74,8 @@
 {"key":"速播资源","name":"小齐🥀速播资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"6V电影","name":"小齐🥀6V电影","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/6V电影.js"},
 {"key":"磁力熊","name":"小齐🥀磁力熊","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/磁力熊.js"},
-{"key":"布谷TV","name":"小齐🥀布谷TV","type":3,"api":"csp_XBPQ","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/布谷.json"},
-{"key":"小白网","name":"小齐🥀小白网","type":3,"api":"csp_XBPQ","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小白网.json"},
+{"key":"布谷TV","name":"小齐🥀布谷TV","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/布谷.json"},
+{"key":"小白网","name":"小齐🥀小白网","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小白网.json"},
 {"key":"兔小贝儿歌①","name":"小齐🥀兔小贝儿歌①","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/兔小贝.js"},
 
     {

@@ -21,9 +21,8 @@
 {"key":"小苹果蓝光","name":"小齐🥀小苹果蓝光","type":3,"api":"csp_Xpg","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
 {"key":"天天蓝光","name":"小齐🥀天天蓝光","type":3,"api":"csp_TianTian","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
 {"key":"荐片影视","name":"小齐🥀荐片影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/荐片.js"},
-{"key":"爱坤影视","name":"小齐🥀爱坤影视","type":1,"playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"http://43.242.202.173:25253/api/cai.php?id=id13","playUrl":"json:http://43.242.202.173:2525/ikun.php/?url="},
 {"key":"南瓜影视","name":"小齐🥀南瓜影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/南瓜.js"},
-{"key":"网飞影视","name":"侠客🥀网飞影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/网飞影视.js"},
+{"key":"网飞影视","name":"小齐🥀网飞影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/网飞影视.js"},
 {"key":"低端影视","name":"小齐🥀低端影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/diduan.js"},
 {"key":"NT动漫","name":"小齐🥀NT动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/ntdm.js"},
 {"key":"两个BT","name":"小齐🥀两个BT","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/两个BT.js"},
@@ -58,14 +57,12 @@
 {"key":"星芽短剧","name":"小齐🥀星芽短剧","type":3,"api":"csp_AppXY","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"农民直连","name":"小齐🥀农民直连","type":3,"api":"csp_WexNmys","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"明日影视","name":"小齐🥀明日影视","type":3,"api":"csp_WexMingriys","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"美剧蓝光","name":"小齐🥀美剧蓝光","type":3,"api":"csp_KmeiJu","jar":"./lib/PandaQ240720.jar","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"电影港","name":"小齐🥀电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/电影港.json"},
 {"key":"快看直连","name":"小齐🥀快看直连","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"HDmoli","name":"小齐🥀HDmoli","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/HDmoli.js"},
 {"key":"Mp4影视","name":"小齐🥀Mp4影视","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"BT2速播","name":"小齐🥀BT速播","type":3,"api":"csp_Wexbttwo","jar":"./lib/精品短剧.jar","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"路漫漫动漫","name":"小齐🥀路漫漫动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/路漫漫动漫.js"},
-{"key":"稀饭动漫","name":"小齐🥀稀饭动漫","type":3,"api":"csp_Xifan","jar":"./lib/PandaQ240720.jar","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"A8视频","name":"小齐🥀A8视频","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/A8视频.js"},
 {"key":"6V磁力","name":"小齐🥀6V磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"SeedHub","name":"小齐🥀SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":0},
@@ -74,8 +71,6 @@
 {"key":"速播资源","name":"小齐🥀速播资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"6V电影","name":"小齐🥀6V电影","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/6V电影.js"},
 {"key":"磁力熊","name":"小齐🥀磁力熊","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/磁力熊.js"},
-{"key":"布谷TV","name":"小齐🥀布谷TV","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/布谷.json"},
-{"key":"小白网","name":"小齐🥀小白网","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小白网.json"},
 {"key":"兔小贝儿歌①","name":"小齐🥀兔小贝儿歌①","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/兔小贝.js"},
 
     {
@@ -137,6 +132,26 @@
             "是否开启手动嗅探": "0",
             "手动嗅探视频链接关键词": ".mp4",
             "手动嗅探视频链接过滤词": ".html#=http"
+    }
+    },
+    {
+      "key": "影视大全",
+      "name": "小齐🥀影视大全",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+            "主页url": "http://www.sxpxsm.com.cn/",
+            "副标题": "pic-text text-right\">&&</b>",
+            "搜索模式": "1",
+            "搜索url": "http://www.sxpxsm.com.cn/search.php?searchword={wd}",
+            "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+            "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+            "跳转播放链接": "var now=\"&&\"",
+            "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+            "分类url": "http://www.sxpxsm.com.cn/frim/{cateId}.html"
     }
     },
     {
@@ -1192,7 +1207,6 @@
 {"key":"哔哩综合","name":"小齐🅱哔哩综合","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩综合.json"},
 {"key":"哔哔合集","name":"小齐🅱哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/bilibili.json"},
 {"key":"哔哩歌曲","name":"小齐🅱哔哩歌曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/biliych.json"},
-{"key":"哔哩音乐","name":"小齐🅱哔哩音乐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩音乐.json"},
 {"key":"搭配教程","name":"小齐🅱搭配教程","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/搭配.json"},
 {"key":"搭讪教程","name":"小齐🅱搭讪教程","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/搭讪.json"},
 {"key":"中医药区","name":"小齐🅱中医药区","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/zyy.json"},
@@ -1211,7 +1225,6 @@
 {"key":"幼儿教育","name":"小齐🅱幼小衔接","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩幼小.json"},
 {"key":"各国语言","name":"小齐🅱各国语言","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/waiyu.json"},
 {"key":"学习园地","name":"小齐🅱学习园地","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/Blixt.json"},
-
 {"key":"1","name":"小齐‖自营一线","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"2","name":"小齐‖自营二线","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"3","name":"小齐‖自营三线","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
@@ -1244,7 +1257,7 @@
 {"name":"解析三线","type":0,"url":"https://www.8090.la/8090/?url=","ext":{"flag": ["芒果","mangguo"]}}],
 	"lives": [{
             "name": "live",
-		    "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/xiaoqiapi/yingshi/main/zhibo.txt",
+		    "url": "./zhibo.txt",
             "type": 0,
             "playerType": 1,
             "ua": "okhttp/3.12.13",

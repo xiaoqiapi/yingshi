@@ -71,6 +71,7 @@
 {"key":"速播资源","name":"小齐🥀速播资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"6V电影","name":"小齐🥀6V电影","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/6V电影.js"},
 {"key":"磁力熊","name":"小齐🥀磁力熊","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/磁力熊.js"},
+{"key":"Anime1动畫","name":"小齐🥀Anime1动畫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/Anime1动畫.js"},
 {"key":"兔小贝儿歌①","name":"小齐🥀兔小贝儿歌①","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/兔小贝.js"},
 
     {
@@ -1186,7 +1187,9 @@
 {"key":"爱车MV","name":"小齐🎧爱车MV","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/爱车MV.js"},
 {"key":"DJ音乐","name":"小齐🎧DJ音乐","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/DJ音乐.js"},
 {"key":"清风DJ","name":"小齐🎧清风DJ","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/清风DJ.js"},
+{"key":"急救教学","name":"小齐📚急救教学","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"filterable":0,"style":{"type":"rect","ratio":3.8},"jar":"./lib/xiaoqiok.jar"},
 {"key":"少儿教育","name":"小齐📚少儿教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/少儿教育.json"},
+{"key":"小学奥数","name":"小齐📚小学奥数","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小学奥数.json"},
 {"key":"小学课堂","name":"小齐📚小学课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小学课堂.json"},
 {"key":"初中课堂","name":"小齐📚初中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/初中课堂.json"},
 {"key":"高中教育","name":"小齐📚高中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/高中课堂.json"},
@@ -1198,6 +1201,7 @@
 {"key":"儿童硬笔","name":"小齐📚儿童硬笔","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/儿童硬笔.json"},
 {"key":"儿童编程","name":"小齐📚儿童编程","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/儿童编程.json"},
 {"key":"儿童武术","name":"小齐📚儿童武术","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/儿童武术.json"},
+{"key":"Office学习","name":"小齐📚Office学习","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/office.json"},
 {"key":"哔哩影视","name":"小齐🅱哔哩影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩影视.js"},
 {"key":"哔哩直播","name":"小齐🅱哔哩直播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩直播.js"},
 {"key":"哔哩精简","name":"小齐🅱哔哩精简","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/哔哩精简.js"},

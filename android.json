@@ -1,6 +1,6 @@
 /**
 * 🌟 小齐导航网:tianyi.kesug.com🌟 
-* 📅 本次更新时间：2024年7月20日
+* 📅 本次更新时间：2024年7月27日
 * 👤 开发人员：小齐 / 一轩(软件修改/影视仓创建指导)
 * 💡 开发理念：我们只是影视仓的搬运工！
 * ⚠️ 各位大佬 我只是个小学生 维护不易 别倒卖!
@@ -12,8 +12,8 @@
   "warningText":"正在加载!请稍后!",
   "sites": [
 {"key":"酷看蓝光","name":"🌺【小齐影视】💑（👉【公告：此APP,仅供测试学习使用）💑","type":3,"api":"csp_Kkys","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
-{"key":"优酷","name":"优酷","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/youku.js"},
 {"key":"腾讯视频","name":"导航网:tianyi.kesug.com","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/腾云驾雾.js"},
+{"key":"优酷","name":"小齐🥀优酷(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/youku.js"},
 {"key":"芒果","name":"小齐🥀芒果(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/百忙无果.js"},
 {"key":"搜狗","name":"小齐🥀搜狗(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/caigou.js"},
 {"key":"爱奇艺","name":"小齐🥀爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/奇珍异兽.js"},
@@ -22,7 +22,7 @@
 {"key":"天天蓝光","name":"小齐🥀天天蓝光","type":3,"api":"csp_TianTian","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
 {"key":"荐片影视","name":"小齐🥀荐片影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/荐片.js"},
 {"key":"南瓜影视","name":"小齐🥀南瓜影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/南瓜.js"},
-{"key":"网飞影视","name":"小齐🥀网飞影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/网飞影视.js"},
+{"key":"网飞TV","name":"小齐🥀网飞TV","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/网飞影视.js"},
 {"key":"低端影视","name":"小齐🥀低端影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/diduan.js"},
 {"key":"NT动漫","name":"小齐🥀NT动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/ntdm.js"},
 {"key":"两个BT","name":"小齐🥀两个BT","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/两个BT.js"},
@@ -75,6 +75,14 @@
 {"key":"奇米动漫","name":"小齐🥀奇米动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/奇米动漫.js"},
 {"key":"123酷播","name":"小齐🥀123酷播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/123酷播.js"},
 {"key":"开眼视频","name":"小齐🥀开眼视频","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/开眼视频.js"},
+
+{"key":"追剧迷","name":"小齐🥀追剧迷","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/追剧迷.js"},
+{"key":"在线之家","name":"小齐🥀在线之家","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/在线之家.js"},
+{"key":"影视工场","name":"小齐🥀影视工场","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/影视工场.js"},
+{"key":"小狗影院","name":"小齐🥀小狗影院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小狗影院.js"},
+{"key":"中国人线上看","name":"小齐🥀线上看","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/中国人线上看.js"},
+{"key":"蜥蜴影院","name":"小齐🥀蜥蜴影院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/蜥蜴影院.js"},
+{"key":"我爱跟剧","name":"小齐🥀我爱跟剧","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/我爱跟剧.js"},
 {"key":"兔小贝儿歌①","name":"小齐🥀兔小贝儿歌①","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/兔小贝.js"},
 
     {
@@ -185,6 +193,24 @@
             "线路标题": "<span>&&</small>[替换:</span><small>>>-🌸共]+集🌸",
             "分类url": "http://xkys.link/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
             "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$20"
+    }
+    },
+    {
+      "key": "五五影视",
+      "name": "小齐🥀五五影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+            "站名":"五五影视",
+            "主页url":"https://www.55kan.com/",
+            "简介":"【小齐影视】提醒您请勿相信影片中的广告，以免上当受骗！+<p class=\"col-pd\"&&</p>",
+            "线路数组":"<h3 class=\"title\">&&/h3>",
+            "线路标题":"+>&&<",
+            "分类url":"https://www.55kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
+            "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
     }
     },
     {

@@ -1,6 +1,6 @@
 /**
 * 🌟 小齐导航网:tianyi.kesug.com🌟 
-* 📅 本次更新时间：2024年8月29日
+* 📅 本次更新时间：2024年8月30日
 * 👤 开发人员：小齐 / 一轩(软件修改/影视仓创建指导)
 * 💡 开发理念：我们只是影视仓的搬运工！
 * ⚠️ 各位大佬 我只是个小学生 维护不易 别倒卖!
@@ -11,15 +11,14 @@
   "spider":"./xiaoqi240723.jar",
   "warningText":"正在加载!请稍后!",
   "sites": [
-{"key":"天天蓝光","name":"🌺【小齐影视】💑（👉【公告：此APP,仅供测试学习使用）💑","type":3,"api":"csp_TianTian","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
-{"key":"腾讯视频","name":"导航网:tianyi.kesug.com","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/腾云驾雾.js"},
-{"key":"优酷","name":"小齐🥀优酷(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/youku.js"},
+{"key":"腾讯视频","name":"🌺【小齐影视】💑（👉【公告：此APP,仅供测试学习使用）💑","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/腾云驾雾.js"},
+{"key":"优酷","name":"导航网:tianyi.kesug.com","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/youku.js"},
 {"key":"芒果","name":"小齐🥀芒果(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/百忙无果.js"},
 {"key":"搜狗","name":"小齐🥀搜狗(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/caigou.js"},
 {"key":"爱奇艺","name":"小齐🥀爱奇艺(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/奇珍异兽.js"},
 {"key":"360影视","name":"小齐🥀360影视(官)","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/360影视.js"},
-{"key":"酷看蓝光","name":"小齐🥀酷看蓝光","type":3,"api":"csp_Kkys","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
 {"key":"小苹果蓝光","name":"小齐🥀小苹果蓝光","type":3,"api":"csp_Xpg","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
+{"key":"天天蓝光","name":"小齐🥀天天蓝光","type":3,"api":"csp_TianTian","jar":"./lib/xiaoqiok.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"danmu":true}},
 {"key":"南瓜影视","name":"小齐🥀南瓜影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/南瓜.js"},
 {"key":"网飞TV","name":"小齐🥀网飞TV","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/网飞影视.js"},
 {"key":"低端影视","name":"小齐🥀低端影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/diduan.js"},
@@ -41,7 +40,6 @@
 {"key":"快车资源网","name":"小齐🥀快车资源网","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"ikun资源站","name":"小齐🥀ikun资源站","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"百度资源站","name":"小齐🥀百度资源站","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"黑木耳资源站","name":"小齐🥀黑木耳资源站","type":1,"api":"https://json.heimuer.tv/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"淘片资源网","name":"小齐🥀淘片资源网","type":0,"api":"https://taopianapi.com/cjapi/mc10/vod/xml.html","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"豪华资源","name":"小齐🥀豪华资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"央视大全","name":"小齐🥀央视大全","type":3,"api":"csp_CCTV","jar":"./lib/cctv.jar;md5;25d9c3d97411a77f12652fde9b88dbc5","searchable":1,"filterable":1,"changeable":0,"ext":"./lib/央视大全.json"},
@@ -53,15 +51,12 @@
 {"key":"电影港","name":"小齐🥀电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/电影港.json"},
 {"key":"快看直连","name":"小齐🥀快看直连","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"HDmoli","name":"小齐🥀HDmoli","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/HDmoli.js"},
-{"key":"Mp4影视","name":"小齐🥀Mp4影视","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"A8视频","name":"小齐🥀A8视频","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/A8视频.js"},
 {"key":"6V磁力","name":"小齐🥀6V磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"SeedHub","name":"小齐🥀SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"酷吧电影","name":"小齐🥀酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"迅雷吧","name":"小齐🥀迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"速播资源","name":"小齐🥀速播资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"6V电影","name":"小齐🥀6V电影","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/6V电影.js"},
-{"key":"磁力熊","name":"小齐🥀磁力熊","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/磁力熊.js"},
 {"key":"Anime1动畫","name":"小齐🥀Anime1动畫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/Anime1动畫.js"},
 {"key":"奇米动漫","name":"小齐🥀奇米动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/奇米动漫.js"},
 {"key":"123酷播","name":"小齐🥀123酷播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/123酷播.js"},
@@ -71,7 +66,6 @@
 {"key":"影视工场","name":"小齐🥀影视工场","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/影视工场.js"},
 {"key":"小狗影院","name":"小齐🥀小狗影院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小狗影院.js"},
 {"key":"中国人线上看","name":"小齐🥀线上看","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/中国人线上看.js"},
-{"key":"蜥蜴影院","name":"小齐🥀蜥蜴影院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/蜥蜴影院.js"},
 {"key":"我爱跟剧","name":"小齐🥀我爱跟剧","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/我爱跟剧.js"},
 {"key":"兔小贝儿歌①","name":"小齐🥀兔小贝儿歌①","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/兔小贝.js"},
 
@@ -305,38 +299,6 @@
             "是否开启手动嗅探": "1",
             "手动嗅探视频链接关键词": ".mp4#.m3u8#item/video#video_mp4#video/tos",
             "手动嗅探视频链接过滤词": ".html#=http"
-    }
-    },
-    {
-      "key": "韩剧看看",
-      "name": "小齐🥀韩剧看看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-            "站名": "韩剧看看",
-            "主页url": "https://www.hanjukankan.com/frim/index1.html",
-            "简介": "【小齐影视】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"left text-muted\">简介：</span><span class=\"sketch hidden-sm hidden-xs\">&&<a href=\"#jq\">详情 <i class=\"fa fa-angle-down\"></i></a></span>",
-            "影片年代": "年份：&&</li>",
-            "影片地区": "地区：&&</li>",
-            "影片类型": "分类：&&</li>",
-            "导演": "导演：&&</div>",
-            "主演": "主演：&&</div>",
-            "影片状态": "集数：&&</div>",
-            "影片类型": "module-info-tag\">&&立即播放",
-            "搜索模式": "1",
-            "搜索url": "https://www.hanjukankan.com/search.php?searchword={wd}",
-            "搜索数组": "module-card-item-class\">&&</a>",
-            "搜索标题": "alt=\"&&\"",
-            "搜索副标题": "note\">&&</div>",
-            "搜索图片": "data-original=\"&&\"",
-            "搜索链接": "href=\"&&\"",
-            "线路数组": "data-toggle=\"tab\">&&</a></li>",
-            "线路标题": "小齐影视",
-            "分类url": "https://www.hanjukankan.com/frim/index{cateId}.html",
-            "分类": "韩综$3#其他$4"
     }
     },
     {
@@ -675,73 +637,6 @@
     }
     },
     {
-      "key": "HDmoli",
-      "name": "小齐🥀HDmoli",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-            "主页url": "https://www.hdmoli.pro/",
-            "简介": "【小齐影视】提醒您请勿相信影片中的广告，以免上当受骗！+简介：&&</p>",
-            "导演": "导演：&&</p>",
-            "主演": "演员：&&</p>",
-            "影片类型": "分类：&&<span class=\"split-line\">",
-            "影片地区": "地区：&&<span class=\"split-line\">",
-            "影片年代": "年份：&&<span class=\"split-line\">",
-            "影片状态": "15px;\">&&</h1>",
-            "数组": "myui-vodlist__thumb&&</a>",
-            "图片": "data-original=\"&&\"",
-            "标题": "title=\"&&\"",
-            "副标题": "pic-text text-right\">&&</span>",
-            "链接": "href=\"&&\"",
-            "搜索url": "/search.php?searchword={wd}",
-            "搜索数组": "vodlist__thumb&&</a>",
-            "搜索标题": "title=\"&&\"",
-            "搜索副标题": "pic-text text-right\">&&</span>",
-            "搜索图片": "data-original=\"&&\"",
-            "搜索链接": "href=\"&&\"",
-            "线路数组": "data-toggle=&&</li>[替换:线路1>>在线播放①#线路2>>在线播放②#线路3>>在线播放③]",
-            "线路标题": ">&&</a>",
-            "播放数组": "-content__list sort-list&&</ul>",
-            "播放标题": ">&&<",
-            "播放列表": "<a&&/a>",
-            "分类url": "https://www.hdmoli.pro/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq={class};;ak",
-            "分类": "电影$1#电视剧$2#动漫$41"
-    }
-    },
-    {
-      "key": "新视觉影院",
-      "name": "小齐🥀新视觉影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-            "站名": "新视觉影院",
-            "主页url": "https://www.6080yy3.com/",
-            "简介": "【小齐影视】提醒您请勿相信影片中的广告，以免上当受骗！+<div class=\"video-info-item video-info-content vod_content\">&&</span>",
-            "导演": "导演：&&</div>",
-            "主演": "主演：&&</div>",
-            "影片类型": "video-tag-icon\">&&立即播放",
-            "影片状态": "集数：&&</div>",
-            "数组": "module-item-pic\">&&module-item\">",
-            "图片": "data-src=\"&&\"",
-            "标题": "title=\"&&\"",
-            "副标题": "module-item-text\">&&</div>",
-            "链接": "href=\"&&\"",
-            "线路数组": "data-dropdown-value=&&</div>",
-            "线路标题": "<span>&&</small>[排序:超清线路①>>蓝光专享线路>>蓝光①#在线观看线路>>在线#极速-01线路>>01线路#极速播放线路>>极速#蓝光专线2线路>>蓝光②#蓝光专享2线路>>蓝光③#蓝光专享3线路>>蓝光④#</span><small>>>>线",
-            "播放数组": "sort-item\"&&</div>",
-            "播放标题": "<span>&&</span>",
-            "播放列表": "<a&&</a>",
-            "分类url": "https://www.6080yy3.com/vodtype/{cateId}.html",
-            "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5#短剧$59"
-    }
-    },
-    {
       "key": "七新电影网",
       "name": "小齐🥀七新电影网",
       "type": 3,
@@ -791,26 +686,6 @@
             "线路标题": "+>&&<",
             "分类url": "https://bzhanyy.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-    }
-    },
-    {
-      "key": "98影院",
-      "name": "小齐🥀98影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-            "主页url": "http://www.98dyb.com/",
-            "简介": "【小齐影视】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=\"display: none;\">&&</span>",
-            "导演": "导演：&&</p>",
-            "影片状态": "状态：&&</p>",
-            "搜索url": "http://www.98dsw.com/search.php;post;searchword={wd}",
-            "线路数组": "<h3 class=\"title\">&&/h3>",
-            "线路标题": ">&&<",
-            "分类url": "http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.98dyb.com/{cateId}/index.html];;akx",
-            "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
     }
     },
     {
@@ -875,29 +750,6 @@
     }
     },
     {
-      "key": "剧哥哥",
-      "name": "小齐🥀剧哥哥",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-            "主页url": "https://www.jugege.cc/",
-            "副标题": "pic-text text-right\">&&</b>",
-            "搜索模式": "1",
-            "搜索url": "https://www.jugege.cc/vodsearch/{wd}-------------.html",
-            "图片": "data-original=\"&&\"",
-            "嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/",
-            "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-            "简介": "【小齐影视】提醒您请勿相信影片中的广告，以免上当受骗！+<div class=\"module-info-introduction-content\"><p>&&</p>",
-            "导演": "导演：&&</div>",
-            "主演": "主演：&&</div>",
-            "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-            "分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
-    }
-    },
-    {
       "key": "03影院",
       "name": "小齐🥀03影院",
       "type": 3,
@@ -923,62 +775,6 @@
             "线路标题": ">&&<",
             "分类url": "https://www.03yy.co/search.php?searchtype=5&order=time&area=&year=2023&letter=&yuyan=&state=&money=&ver=&jq=&tid=61?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
             "分类": "电影$movies#电视剧$tv#动漫$dongman#综艺$zongyi"
-    }
-    },
-    {
-      "key": "爱看影院",
-      "name": "小齐🥀爱看影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-            "主页url": "https://www.3ayy.com",
-            "简介": "【小齐影视】提醒您请勿相信影片中的广告，以免上当受骗！+<div class=\"module-info-introduction-content show-desc\" style=\"line-height: 20px;\"><p>&&</p>",
-            "导演": "导演：&&</div>",
-            "主演": "主演：&&</div>",
-            "影片类型": "module-info-tag\">&&立即播放",
-            "影片状态": "集数：&&</div>",
-            "数组": "<a&&module-poster-item-info\"",
-            "标题": "title=\"&&\"",
-            "副标题": "note\">&&</div>",
-            "嗅探词": ".mp4#.m3u8",
-            "过滤词": "/player/#/index/",
-            "图片": "data-original=\"&&\"",
-            "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-            "链接": "href=\"&&\"",
-            "搜索url": "https://www.3ayy.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
-            "搜索模式": "1",
-            "搜索二次截取": "\"list\":[&&]",
-            "搜索数组": "{&&}",
-            "搜索标题": "\"name\":\"&&\"",
-            "搜索图片": "\"pic\":\"&&\"",
-            "搜索链接": "https://www.3ayy.com/video/+\"id\":&&,+.html",
-            "播放数组": "module-play-list-base\">&&</div>",
-            "播放标题": "<span>&&</span>",
-            "播放列表": "<a&&</a>",
-            "分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
-            "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$63"
-    }
-    },
-    {
-      "key": "蛋蛋剧",
-      "name": "小齐🥀蛋蛋剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-            "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-            "请求头": "手机#Referer$https://www.dandanju.cc/",
-            "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
-            "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-            "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
-            "搜索模式": "1",
-            "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
-            "搜索数组": "<li class=\"active clearfix&&</li"
     }
     },
     {

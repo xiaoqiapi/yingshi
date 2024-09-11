@@ -1,6 +1,6 @@
 /**
 * 🌟 小齐导航网:tianyi.kesug.com🌟 
-* 📅 本次更新时间：2024年8月30日
+* 📅 本次更新时间：2024年9月10日
 * 👤 开发人员：小齐 / 一轩(软件修改/影视仓创建指导)
 * 💡 开发理念：我们只是影视仓的搬运工！
 * ⚠️ 各位大佬 我只是个小学生 维护不易 别倒卖!
@@ -10,6 +10,7 @@
 {
   "spider":"./xiaoqi240723.jar",
   "warningText":"正在加载!请稍后!",
+  "logo": "http://q1.qlogo.cn/g?b=qq&nk=2714941511&s=140",
   "sites": [
 {"key":"腾讯视频","name":"🌺【小齐影视】💑（👉【公告：此APP,仅供测试学习使用）💑","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/腾云驾雾.js"},
 {"key":"优酷","name":"导航网:tianyi.kesug.com","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/youku.js"},
@@ -945,8 +946,8 @@
             "type": 0,
             "playerType": 1,
             "ua": "okhttp/3.12.13",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
 	    }],
   "rules": [
     {

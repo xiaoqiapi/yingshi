@@ -1,6 +1,6 @@
 /**
 * 🌟 小齐导航网:tianyi.kesug.com🌟 
-* 📅 本次更新时间：2024年9月28日
+* 📅 本次更新时间：2024年10月10日
 * 👤 开发人员：小齐 / 一轩(软件修改/影视仓创建指导)
 * 💡 开发理念：我们只是影视仓的搬运工！
 * ⚠️ 各位大佬 我只是个小学生 维护不易 别倒卖!
@@ -58,6 +58,7 @@
 {"key":"影视工场","name":"小齐🥀影视工场","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/影视工场.js"},
 {"key":"小狗影院","name":"小齐🥀小狗影院","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小狗影院.js"},
 {"key":"中国人线上看","name":"小齐🥀线上看","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/中国人线上看.js"},
+{"key":"gsgs","name":"小齐🥀酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"兔小贝儿歌①","name":"小齐🥀兔小贝儿歌①","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/兔小贝.js"},
 
     {
